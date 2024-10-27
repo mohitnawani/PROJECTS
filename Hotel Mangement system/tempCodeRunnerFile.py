@@ -1,0 +1,12 @@
+
+        # self.Cust_Details_Table.pack(fill=BOTH, expand=1)
+        # self.var_cust_name = StringVar()
+        # self.var_mother_name = StringVar()
+        # self.var_gender = StringVar()
+        # self.var_postcode = StringVar()
+        # self.var_mobile = StringVar()
+        # self.var_email = StringVar()
+        # self.var_nationality = StringVar()
+        # self.var_id_proof = StringVar()
+        # self.var_id_number = StringVar()
+        # self.var_address = StringVar()
